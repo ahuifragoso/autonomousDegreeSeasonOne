@@ -1,4 +1,4 @@
-# autonomousDegreeSeasonOne
+# Autonomous Degree Season 1: Computer Vision
 First projects of the udacity autonomous degree
 Hello, this folder contains the codes used to develop most of the projects for the Udacity autonomous degree, these projects are:
 
@@ -9,4 +9,5 @@ Hello, this folder contains the codes used to develop most of the projects for t
 5. Vehicle Detection and Tracking
 
 You can watch some of these projects in the link below.
+
 https://www.youtube.com/watch?v=jc8pmVrsy1s
